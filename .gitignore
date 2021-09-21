@@ -1,10 +1,9 @@
-www/vendor/
-www/composer.cmd
-www/cron.cmd
+vendor/
+composer.cmd
+cron.cmd
 
 .idea/
-www/.idea/
+
  
- 
-www/logs/
-www/upload/
+logs/
+upload/
